@@ -1,0 +1,22 @@
+1]  Creat 20 sample quatiom  for each concepts::
+  
+  1.Function getsum to get sum of two numbers?
+  2.Function swapnumbers to swap two variables values?
+  3.Function isEven to return if number is even otherwice false?
+  4.Function is Digit to return true if it is true?
+  5.Function getgreeting by accepting name and print greeting with name?
+  6.Functionto print ASCII values of strinf input?
+  7.Function getstrlength to get String to get string length?
+  8.Function getCOUNTOfOvewel to count ovewels in given string?
+  9.Function to reverse a string using other memory and also in same memory?
+ 10.Function to revers array elements?
+ 11.Function isPalindrom to find given string is palindron or not if print true?
+ 12.Function to print max and min value in an array?
+ 13.Function to get sum all elementes in an array?
+ 14.Function to merge two arrays and return output in firstarray?
+ 15.Function to get second largest element in an integer array?
+ 16.Function to print unique element in an integer array printUniqueelment?
+ 17.Function  to print intrsection or common elements of two integer arrays?
+ 18.Function to get count of words in the string ?
+ 19.Function to print binary values of various input like integer ,char,also perform shift operation on integer?
+ 20.Function to remove spaces from the strinf?
